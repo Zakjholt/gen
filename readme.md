@@ -1,11 +1,11 @@
-# Gennifer
+# i-think
 
 This is an opinionated helper library for building React apps. It generates class components with boilerplate enzyme tests using ava.
 
 ## Installation
 
 ```sh
-yarn global add gennifer
+yarn global add i-think
 ```
 
 ## Usage

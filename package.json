@@ -1,16 +1,13 @@
 {
-  "name": "gen",
+  "name": "i-think",
   "version": "1.0.0",
-  "description": "",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "file generator for react apps",
   "bin": {
     "create": "./bin/gen.js"
   },
   "main": "./lib/index.js",
   "preferGlobal": true,
-  "author": "",
+  "author": "Zak Holt",
   "license": "ISC",
   "dependencies": {
     "fs": "^0.0.1-security"
